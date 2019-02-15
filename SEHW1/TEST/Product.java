@@ -4,6 +4,7 @@ public class Product {
 	private int quantity;
 	private double totalPrice;
  
+	
 	public Product(String productName, int quantity, double totalPrice) {
 		this.productName = productName;
 		this.quantity = quantity;
