@@ -10,6 +10,7 @@ public class Product {
 		this.totalPrice = totalPrice;
 	}
  
+	
 	public String getProductName() {
 		return productName;
 	}

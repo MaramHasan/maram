@@ -11,6 +11,7 @@ public class ShoppingCart {
 		return productList.size();
 	}
  
+	
 	public void addProduct(Product product) {
 		productList.add(product);
 	}
