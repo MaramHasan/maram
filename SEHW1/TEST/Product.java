@@ -4,13 +4,13 @@ public class Product {
 	private int quantity;
 	private double totalPrice;
  
-	
+	// instructor with 3 parameters 
 	public Product(String productName, int quantity, double totalPrice) {
 		this.productName = productName;
 		this.quantity = quantity;
 		this.totalPrice = totalPrice;
 	}
- 
+ // functions get and set for each products 
 	
 	public String getProductName() {
 		return productName;
